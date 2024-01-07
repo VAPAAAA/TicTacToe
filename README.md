@@ -28,8 +28,6 @@ Nollaa pelilauta alkutilaan.
 ## Huomautukset
 - Varmista, että tietokantataulu on luotu automaattisesti sovelluksen käynnistyessä.
 
-Ole hyvä ja muokkaa ympäristömuuttujia tarpeen mukaan ja nauti Ristinolla-pelistäsi!
-
 ---
 
 **Tekijä**: VAPAAAA
